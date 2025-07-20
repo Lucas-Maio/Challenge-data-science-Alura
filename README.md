@@ -89,13 +89,3 @@ O relatório completo, com todas as visualizações e interpretações dos dados
 
 Este projeto foi desenvolvido como parte de um desafio de ciência de dados da Alura.
 Os dados foram disponibilizados por: [Alura Cursos](https://github.com/alura-es-cursos/challenge1-data-science)
-
----
-
-## 📬 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato por \[[seu-email@exemplo.com](mailto:seu-email@exemplo.com)].
-
----
-
-Se quiser, posso gerar o arquivo `README.md` pronto para download também. Deseja isso?
